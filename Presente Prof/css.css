@@ -1,0 +1,148 @@
+.lo {
+	font-family: 'Allison', cursive;;
+	font-size: 4rem;
+	color: darkred;
+	text-align: center;
+
+}
+
+.lo1 {
+	font-family: 'Allison',cursive;
+	color: grey;
+	font-size: 15px;
+	text-align: center;
+}
+
+.lo2 {
+	font-family: 'Allison',cursive;
+	color: darkred;
+	font-size: 3rem;
+	
+}
+
+.lo3 {
+	font-family: 'Allison',cursive;
+	color: darkred;
+	font-size: 1.5rem;
+	text-align: center;
+	
+
+}
+
+
+.topo {
+	position: top;
+}
+	
+} 
+
+.carrossel {
+	font-family:'Allison', cursive ;
+	font-size: 1.5rem;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.menor {
+	object-fit: cover;
+	object-position: 0 80%;
+	height: 250px;
+}
+
+
+
+.red {
+	background: darkred;
+	color: black;
+	border: solid 1px black;
+}
+
+body {
+	background:  pink;
+}
+
+.titulo {
+	font-size: 3rem;
+	color: darkred;
+;
+	font-family: 'Allison',cursive;
+} 
+
+.grey {
+	background: grey;
+}
+
+
+footer {
+	background: darkred;
+}
+
+.p {
+	text-align: center;
+}
+
+.p1 {
+	text-align: center;
+	font-size: 1rem;
+	color: grey;
+}
+
+.fica {
+	position: relative;
+	top: fixed;
+
+}
+
+.vaicabe {
+	max-height: 400px;
+}
+
+.fundo {
+
+	background: hotpink;
+	padding: auto;
+	margin: 60px;
+	margin-top: 10px;
+	border: solid 5px darkred;
+}
+.lado {
+ di
+splay: flex;
+
+}
+
+.lado1 {
+	float: right;
+}
+
+.para {
+	float: block;
+}
+
+.img {
+	width: 400px;
+	height: 300px;
+	object-fit: cover;
+
+
+	
+
+}
+
+.cento {
+	text-align: center;
+
+}
+
+footer {
+	background: lightpink;
+}
+
+
+div.lado {
+	display: flex;
+}
